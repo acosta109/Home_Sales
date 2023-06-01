@@ -2,6 +2,7 @@
 
 For this assignment, I am using PySpark and SQL to query a large data set regarding home sales for 2019-2022. To execute this assignment, I used Google Colab. 
 </br>
+</br>
 I start by reading in the CSV with the sales data with PySpark and creating a DataFrame.
 
 ```
